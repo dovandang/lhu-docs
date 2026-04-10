@@ -15,6 +15,17 @@ const config = {
       },
     ];
   },
+  images: {
+
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: '2006567897-files.gitbook.io',
+        port: '',
+        pathname: '/**',
+      },
+    ],
+  },
 };
 
 export default withMDX(config);

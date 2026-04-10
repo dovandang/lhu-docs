@@ -1,0 +1,11 @@
+{
+  "title": "Hệ thống HRM LHU",
+  "description": "https://hrm.lhu.edu.vn",
+  "icon": "Angry",
+  "root": true,
+  "pages": [
+    "index",
+    "---Quy trình tính lương---",
+    "quy-trinh-tinh-luong/nhap-cong-chuan-thang"
+  ]
+}
