@@ -1,0 +1,50 @@
+---
+title: Nhập và điều chỉnh số liệu chấm công tháng
+description: LƯƠNG THÁNG - Điều chỉnh chấm công tháng
+---
+
+# 2. Nhập và điều chỉnh số liệu chấm công tháng
+
+## Nhập số liệu chấm công từ tập tin excel
+
+![](https://2006567897-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ4PFqmUoJrwSJ5Zso1Hk%2Fuploads%2Fgit-blob-760dabee125750f9203104c3c09c3ae8b8fcd479%2Fimage%20(20).png?alt=media) Chọn năm/tháng chấm công
+
+Chọn năm/tháng chấm công rồi nhấn vào nút ![](https://2006567897-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ4PFqmUoJrwSJ5Zso1Hk%2Fuploads%2Fgit-blob-d3c8db9d390219f577918156b6b18ad22e34c325%2Fimage%20(11).png?alt=media) để lấy số liệu chấm công từ tập tin excel lên form. Sau khi kiểm tra lại số liệu chấm công trên form, nhấn vào nút ![](https://2006567897-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ4PFqmUoJrwSJ5Zso1Hk%2Fuploads%2Fgit-blob-d612381eac07de08ef02578dfe6e935567819d4b%2Fimage%20(56).png?alt=media) để lưu số liệu chấm công vào hệ thống.
+
+![](https://2006567897-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ4PFqmUoJrwSJ5Zso1Hk%2Fuploads%2Fgit-blob-7528bb81166b82350a016b9743fac879ef490947%2Fchamcong.png?alt=media) Bảng chấm công tương ứng với năm/tháng dược chọn:
+
+
+* Trên bảng châm công, dòng có nền màu trắng là nhân viên đã được chấm công; Dòng có nền màu hồng là nhân viên chưa được chấm công.
+
+* Nút "LOAD EXCEL" chỉ xuất hiện nếu chọn năm/tháng đang tính lương và chưa tiến hành "Xác nhận đã chấm công". Trường hợp khác thì chỉ để xem số liệu.
+
+* Trường hợp chọn năm/tháng đã chốt sổ lương rồi hoặc bước đang chọn đã "xác nhận hoàn tất" thì coi như đang xem lại số liệu, không thể thực hiện các thao tác thêm/sửa/xóa số liệu.
+
+* Mục "Chọn ngạch" chỉ có ý nghĩa trong việc xem số liệu, không ảnh hưởng tới các thao tác nhập hoặc tính toán số liệu, Ở các bước sau nếu có mục chọn này thì cũng áp dụng tương tự.
+
+
+## Một số lưu ý về tập tin excel chấm công mẫu
+
+1. Lấy tập tin excel "Danh sách chấm công" tháng [**Tại đây**](https://hrm.lhbs.vn/danh-sach-cham-cong)
+2. Vị trí các cột, tên các tiêu đề cột phải giữ nguyên không thêm không bớt.
+3. Không có các dòng trống, dòng chứa số liệu khác ở giữa, ở cuối bảng chấm công.
+4. Cột **THANG, NAM** là tháng năm đang cần tính lương (mọi người như nhau).
+5. Cột **CONGDUOCTINH** là số công thực tế hưởng lương của nhân viên. Trường hợp ký lại hợp đồng giữa tháng như mô tả ở mục 8 thì đây là số công của hợp đồng cũ.
+6. Cột **CONGBANTRU** là số công nhân viên trực bán trú.
+7. Cột **CONGDUARUOC** là số công nhân viên đưa đón học sinh.
+8. Cột **SOGIO150, SOGIO200, SOGIO300** là số giờ làm thêm của nhân viên tương ứng với quy đổi 1.5, 2, 3. Trường hợp ký lại hợp đồng giữa tháng như mô tả ở mục 8 thì đây là số giờ làm thêm của hợp đồng cũ.
+9. Các cột **CONGHOPDONG2, SOGIO150\_2, SOGIO200\_2, SOGIO300\_2** ghi nhận công và giờ làm thêm của hợp đồng mới, được dùng trong trường hợp ký lại hợp đồng lao động giữa kỳ tính lương, đồng thời có những thay đổi sau: 1- Chuyển từ hợp đồng thử việc sang hợp đồng chính thức đối với nhân viên hưởng lương tháng theo hệ số (như nhân viên ngạch hành chính, giáo viên mầm non, tiểu học, ...); 2- Thay đổi lương khoán tháng đối với giáo viên nước ngoài, cộng tác viên thuê ngoài.
+10. Cột **SOHOPDONG** sẽ xác định việc có hay không tách công làm việc thành 2 hợp đồng (như mô tả mục 8). Bằng 1 thì không tách công, bằng 2 thì phải tách công.
+11. Tất cả nhân sự cần được tính lương của trường đều phải xuất hiện trong bảng chấm công, kể cả giáo viên thỉnh giảng (khi đó số liệu các cột đều bằng 0). Những ô nào không có giá trị thì phải nhập vào số 0.
+
+## Sửa/xóa thông tin chấm công tháng
+
+Nếu muốn sửa/xóa số liệu chấm công của một nhân viên, vui lòng chọn nút tương ứng trên dòng ![](https://2006567897-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ4PFqmUoJrwSJ5Zso1Hk%2Fuploads%2Fgit-blob-fb187affb381d9a35ba04e2e58bccd5440546932%2Fimage%20\(38\).png?alt=media)
+
+* Nếu số liệu chấm công đã có thì sẽ là sửa số liệu, nếu chưa có sẽ là thêm mới.
+
+Sau khi số liệu chấm công đã đúng và đầy đủ, cần chọn nút ![](https://2006567897-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ4PFqmUoJrwSJ5Zso1Hk%2Fuploads%2Fgit-blob-5a10659bbb26ceb31e23b763d2b7c0a5f1e8bd78%2Fimage%20(63).png?alt=media) bên dưới bảng chấm công để kết thúc bước chấm công và qua bước tiếp theo.
+
+
+* Sau khi đã "Xác nhận đã chấm công" thì sẽ không thể sửa/xóa số liệu trong bảng, nhưng vẫn có thể thực hiện sửa số liệu cho từng cá nhân ở bước 5.
+

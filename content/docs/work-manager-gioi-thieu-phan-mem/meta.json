@@ -1,0 +1,11 @@
+{
+  "title": "Hệ thống Work Manager",
+  "description": "Hướng dẫn sử dụng",
+  "icon": "Fullscreen",
+  "root": true,
+  "pages": [
+    "index",
+    "---Hướng dẫn sử dụng---",
+    "work-manager-gioi-thieu-phan-mem/........."
+  ]
+}

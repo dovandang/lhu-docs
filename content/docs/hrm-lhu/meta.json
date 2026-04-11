@@ -1,11 +1,19 @@
 {
-  "title": "Hệ thống HRM LHU",
-  "description": "https://hrm.lhu.edu.vn",
-  "icon": "Angry",
+  "title": "Hệ thống HRM",
+  "description": "Hướng dẫn sử dụng",
+  "icon": "Fullscreen",
   "root": true,
   "pages": [
     "index",
     "---Quy trình tính lương---",
-    "quy-trinh-tinh-luong/nhap-cong-chuan-thang"
+    "quy-trinh-tinh-luong/nhap-cong-chuan-thang",
+    "quy-trinh-tinh-luong/nhap-va-dieu-chinh-so-lieu-cham-cong-thang",
+    "quy-trinh-tinh-luong/nhap-xep-loai-abc-tu-file-excel",
+    "quy-trinh-tinh-luong/them-phu-cap-phuc-loi-chung",
+    "quy-trinh-tinh-luong/dieu-chinh-thu-nhap-ca-nhan",
+    "quy-trinh-tinh-luong/lay-luong-co-ban-luong-khoan",
+    "quy-trinh-tinh-luong/tinh-tien-giang-tang-gio",
+    "quy-trinh-tinh-luong/tinh-thue-tncn-xem-bang-luong",
+    "quy-trinh-tinh-luong/xac-nhan-cac-buoc-tinh-luong"
   ]
 }
