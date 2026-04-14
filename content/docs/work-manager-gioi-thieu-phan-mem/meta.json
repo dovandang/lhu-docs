@@ -1,0 +1,15 @@
+{
+  "title": "Hệ thống Work Manager",
+  "description": "Hướng dẫn sử dụng",
+  "icon": "Fullscreen",
+  "root": true,
+  "pages": [
+    "index",
+    "---Giới thiệu phần mềm---",
+    "gioi-thieu-phan-mem/doi-tuong-cong-viec",
+    "---Lãnh đạo đơn vị---",
+    "gioi-thieu-phan-mem/doi-tuong-cong-viec",
+    "---Nhân viên---",
+    "gioi-thieu-phan-mem/doi-tuong-cong-viec"
+  ]
+}
