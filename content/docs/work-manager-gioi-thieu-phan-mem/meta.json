@@ -6,8 +6,11 @@
   "pages": [
     "index",
     "---Giới thiệu phần mềm---",
-    "gioi-thieu-phan-mem/doi-tuong-cong-viec",
+    "gioi-thieu-phan-mem/doi-tuong-su-dung",
     "gioi-thieu-phan-mem/du-an-cong-viec",
+    "gioi-thieu-phan-mem/quyen-han-thanh-vien-thuoc-du-an",
+    "gioi-thieu-phan-mem/thanh-vien-tham-gia-du-an",
+
     "---Lãnh đạo đợn vị---",
     "lanh-dao-don-vi/menu-danh-cho-quan-ly",
     
