@@ -1,10 +1,15 @@
 {
   "title": "Hệ thống Work Manager",
+<<<<<<< HEAD
   "description": "Giới thiệu phần mềm",
+=======
+  "description": "Hướng dẫn sử dụng",
+>>>>>>> 11bffac9344bde65f886a296f1e0a0982075c75a
   "icon": "Fullscreen",
   "root": true,
   "pages": [
     "index",
+<<<<<<< HEAD
     "---Giới thiệu phần mềm---",
     "gioi-thieu-phan-mem/doi-tuong-su-dung",
     "gioi-thieu-phan-mem/du-an-cong-viec",
@@ -39,3 +44,9 @@
     "nhan-vien/bao-cao-cong-viec"
     ]
 }
+=======
+    "---Hướng dẫn sử dụng---",
+    "work-manager-gioi-thieu-phan-mem/........."
+  ]
+}
+>>>>>>> 11bffac9344bde65f886a296f1e0a0982075c75a
