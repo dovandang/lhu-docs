@@ -24,6 +24,12 @@ const config = {
         port: '',
         pathname: '/**',
       },
+      {
+        protocol: 'https',
+        hostname: '*.gitbook.com',
+        port: '',
+        pathname: '/**',
+      },
     ],
   },
 };
