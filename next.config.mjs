@@ -20,7 +20,7 @@ const config = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: '2006567897-files.gitbook.io',
+        hostname: '*.gitbook.io',
         port: '',
         pathname: '/**',
       },
