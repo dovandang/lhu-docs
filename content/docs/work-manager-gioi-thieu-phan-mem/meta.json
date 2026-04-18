@@ -1,11 +1,41 @@
 {
   "title": "Hệ thống Work Manager",
-  "description": "Hướng dẫn sử dụng",
+  "description": "Giới thiệu phần mềm",
   "icon": "Fullscreen",
   "root": true,
   "pages": [
     "index",
-    "---Hướng dẫn sử dụng---",
-    "work-manager-gioi-thieu-phan-mem/........."
-  ]
+    "---Giới thiệu phần mềm---",
+    "gioi-thieu-phan-mem/doi-tuong-su-dung",
+    "gioi-thieu-phan-mem/du-an-cong-viec",
+    "gioi-thieu-phan-mem/quyen-han-thanh-vien-thuoc-du-an",
+    "gioi-thieu-phan-mem/thanh-vien-tham-gia-du-an",
+
+    "---Lãnh đạo đợn vị---",
+    "lanh-dao-don-vi/menu-danh-cho-quan-ly",
+    
+    "lanh-dao-don-vi/quan-ly-bo-phan",
+    "quan-ly-bo-phan/tao-moi-bo-phan",
+    "quan-ly-bo-phan/hieu-chinh-bo-phan",
+    "quan-ly-bo-phan/nhan-su-thuoc-bo-phan",
+    "quan-ly-bo-phan/xem-nhan-su-toan-don-vi",
+    
+    "lanh-dao-don-vi/du-an-dang-thuc-hien",
+    "du-an-dang-thuc-hien/xem-danh-sach-du-an",
+    "du-an-dang-thuc-hien/them-moi-du-an",
+    "du-an-dang-thuc-hien/hieu-chinh-du-an",
+    "du-an-dang-thuc-hien/thanh-vien-du-an",
+    "du-an-dang-thuc-hien/cong-viec-phan-viec",
+
+    "lanh-dao-don-vi/theo-doi-cong-viec",
+    "theo-doi-cong-viec/nhan-vien-thuoc-bo-phan",
+
+    "lanh-dao-don-vi/du-an-hoan-tat",
+    "du-an-hoan-tat/xem-thong-tin",
+    "du-an-hoan-tat/",
+
+    "---Nhân viên---",
+    "nhan-vien/nhan-viec-duoc-giao",
+    "nhan-vien/bao-cao-cong-viec"
+    ]
 }
